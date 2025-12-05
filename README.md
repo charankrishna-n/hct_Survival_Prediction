@@ -1,4 +1,4 @@
-# HCT Survival Prediction
+# HCT Survival Prediction APP
 
 ⚠️ **FOR RESEARCH/DEMO USE ONLY. NOT FOR CLINICAL DECISION-MAKING.**
 
