@@ -1,5 +1,4 @@
-# HCT Survival Prediction APP
-
+# HCT Survival 
 ⚠️ **FOR RESEARCH/DEMO USE ONLY. NOT FOR CLINICAL DECISION-MAKING.**
 
 A production-ready machine learning application that predicts post-transplant survival probability for Hematopoietic Cell Transplantation (HCT) patients using XGBoost.
